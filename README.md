@@ -1,1 +1,1 @@
-# ejercicios-react-ob
+# Ejercicios del módulo React de OpenBootcamp
