@@ -1,0 +1,26 @@
+.contact-list {
+  margin: 10vh 5vh;
+  min-width: 20vh;
+  background-color: whitesmoke;
+  color: darkblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 2vh;
+}
+
+.contact-list-header {
+  text-align: center;
+  width: 100%;
+  font-size: 5vh;
+}
+
+.contact-list-body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+}

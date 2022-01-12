@@ -1,0 +1,61 @@
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid darkblue;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 2vh;
+  text-align: center;
+  font-size: 2vh;
+}
+
+.contact-data {
+  margin-bottom: 0.5rem;
+}
+
+.user-icon {
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+.user-connected {
+  padding: 5px 10px;
+  border-radius: 8px;
+}
+
+.user-on {
+  background-color: green;
+}
+
+.user-off {
+  background-color: red;
+}
+
+.button-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 1.5rem;
+}
+
+.contact-button {
+  cursor: pointer;
+  border: none;
+  padding: 0.25rem;
+  transform: scale(1.5);
+  background-color: transparent;
+}
+
+.delete-icon {
+  color: darkblue;
+}
+
+.toggle-on {
+  color: green;
+}
+
+.toggle-off {
+  color: red;
+}
